@@ -1,0 +1,10 @@
+.settings/
+logs/
+*.log
+.classpath
+.project
+target/
+pom.xml
+App.java
+log4j2.xml
+AppTest.java
